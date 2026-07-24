@@ -1,11 +1,11 @@
  <h1 align="center">Hi, I'm Mugisha Hirwa Jean Luc 👋</h1>
 
 <p align="center">
-  Software Developer passionate about building practical web applications and exploring modern technologies.
+  I build practical software solutions by turning ideas and real-world requirements into functional web applications.
 </p>
 
 <p align="center">
-  I enjoy turning ideas and requirements into functional software solutions, analysing problems carefully, and continuously expanding my technical knowledge through hands-on development.
+  I value thoughtful analysis, continuous learning, and building solutions that address real needs. My interests span modern web development, system design, and digital design.
 </p>
 
 ---
