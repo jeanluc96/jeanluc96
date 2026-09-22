@@ -1,11 +1,7 @@
  <h1 align="center">Hi, I'm Mugisha Hirwa Jean Luc 👋</h1>
 
 <p align="center">
-  I build practical software solutions by turning ideas and real-world requirements into functional web applications.
-</p>
-
-<p align="center">
-  I value thoughtful analysis, continuous learning, and building solutions that address real needs. My interests span modern web development, system design, and digital design.
+  I'm a frontend developer with a strong passion for design — both graphic and UI/UX. My work sits at the intersection of aesthetics and functionality, from sketching early concepts to designing and building interfaces that are clean, accessible, and genuinely easy to use.
 </p>
 
 ---
