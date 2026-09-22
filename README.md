@@ -1,7 +1,7 @@
  <h1 align="center">Hi, I'm Mugisha Hirwa Jean Luc 👋</h1>
 
 <p align="center">
-  I'm a frontend developer with a strong passion for design — both graphic and UI/UX. My work sits at the intersection of aesthetics and functionality, from sketching early concepts to designing and building interfaces that are clean, accessible, and genuinely easy to use.
+  I'm a frontend developer with a strong passion for design, both graphic and UI/UX. My work sits at the intersection of aesthetics and functionality, from sketching early concepts to designing and building interfaces that are clean, accessible, and genuinely easy to use.
 </p>
 
 ---
